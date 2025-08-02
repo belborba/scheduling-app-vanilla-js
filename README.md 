@@ -1,0 +1,44 @@
+# �� Hair Day - Sistema de Agendamento
+Uma aplicação web moderna para gerenciamento de agendamentos de corte de cabelo, desenvolvida com JavaScript vanilla e Webpack.
+
+## 📋 Descrição
+
+O **Hair Day** é um sistema completo de agendamento que permite aos usuários:
+- Agendar horários para corte de cabelo
+- Visualizar agendamentos por período (manhã, tarde, noite)
+- Cancelar agendamentos existentes
+- Gerenciar horários disponíveis automaticamente
+
+## ✨ Funcionalidades
+
+### 🗓️ Agendamento
+- Seleção de data através de calendário
+- Escolha de horários disponíveis por período
+- Cadastro de nome do cliente
+- Validação de formulário
+
+### 📊 Visualização
+- Lista de agendamentos organizada por período
+- Exibição em tempo real dos horários ocupados
+- Interface intuitiva com ícones visuais
+
+### 🗑️ Cancelamento
+- Cancelamento de agendamentos com confirmação
+- Atualização automática da lista após cancelamento
+
+### ⏰ Horários Inteligentes
+- Filtragem automática de horários passados
+- Exclusão de horários já agendados
+- Organização por períodos (Manhã: 09h-12h, Tarde: 13h-18h, Noite: 19h-21h)
+
+## 🛠️ Tecnologias Utilizadas
+
+- **JavaScript ES6+** - Linguagem principal
+- **Webpack** - Bundler e dev server
+- **Day.js** - Manipulação de datas
+- **JSON Server** - API REST simulada
+- **CSS3** - Estilização moderna
+- **HTML5** - Estrutura semântica
+
+## 📁 Estrutura do Projeto
+
