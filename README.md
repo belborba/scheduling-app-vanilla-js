@@ -1,4 +1,3 @@
-```markdown
 # ✂️ Hair Day - Scheduling System
 
 A modern web application for hair salon appointment management, built with vanilla JavaScript and Webpack.
@@ -13,7 +12,7 @@ A modern web application for hair salon appointment management, built with vanil
 
 ## ✨ Features
 
-### ��️ Scheduling
+### 🗓 Scheduling
 - Date selection through calendar
 - Available time slot selection by period
 - Client name registration
@@ -33,7 +32,7 @@ A modern web application for hair salon appointment management, built with vanil
 - Exclusion of already scheduled time slots
 - Organization by periods (Morning: 9am-12pm, Afternoon: 1pm-6pm, Evening: 7pm-9pm)
 
-## ��️ Technologies Used
+## 💻 Technologies Used
 
 - **JavaScript ES6+** - Main language
 - **Webpack** - Bundler and dev server
@@ -61,7 +60,7 @@ hairday-template-main/
 └── webpack.config.js   # Webpack configuration
 ```
 
-## �� How to Run
+## 📲 How to Run
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -123,7 +122,7 @@ The application uses **JSON Server** as a simulated API:
 }
 ```
 
-## �� Technical Features
+## 🔧 Technical Features
 
 ### Main Modules
 
@@ -151,14 +150,6 @@ The application features a modern and responsive interface with:
 - **Visual Feedback**: Loading and error states
 - **Responsiveness**: Adaptation to different screens
 
-## 🔍 Debugging
-
-To debug issues:
-
-1. **Check browser console** (F12)
-2. **Confirm server is running** at `http://localhost:3333`
-3. **Check application logs**
-4. **Test API directly**: `http://localhost:3333/schedules`
 
 ## 🤝 Contributing
 
@@ -175,8 +166,4 @@ This project is under the MIT license. See the `LICENSE` file for more details.
 ## 👩🏻‍💻 Author
 
 **Bel Borba** - Front End Developer
-
----
-
 ⭐ If this project helped you, consider giving it a star!
-```
